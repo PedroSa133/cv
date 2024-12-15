@@ -1,0 +1,10 @@
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-icons-header {
+    width: 100px;
+    display: flex;
+    gap: 24px;
+}
