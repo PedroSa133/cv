@@ -1,0 +1,38 @@
+
+.container-img-perfil-profile-info{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 12px;
+}
+
+.outliner-container{
+    display: inline-block;
+    border-radius: 100%;
+    background: var(--state-color);
+    padding: 2px;
+}
+
+.container-img-perfil {
+    border-radius: 100%;
+    width: 72px;
+    height: 72px;
+    overflow: hidden;
+    border: 3px solid black;
+}
+
+.photo-perfil {
+    width: 100%;
+}
+
+.container-profile-info{
+    display: flex;
+    width: 100%;
+    color: var(--text-principal);
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container-info{
+    margin-left: 16px;
+    margin-top: 6px;
+}

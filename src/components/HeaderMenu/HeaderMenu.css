@@ -1,10 +1,25 @@
 .header-menu {
+    padding: 8px 12px;
+    font-weight: 600;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    color: var(--text-white);
+}
+
+.username {
+    margin-left: 24px;
+    margin-top: 0;
 }
 
 .container-icons-header {
-    width: 100px;
     display: flex;
-    gap: 24px;
+    gap: 12px;
+}
+
+.container-shared-icon img,
+.container-more-icon img,
+.container-arrow-icon img {
+    display: flex;
+    align-items: center;
 }
