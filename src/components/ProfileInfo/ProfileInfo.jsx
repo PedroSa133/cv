@@ -41,4 +41,4 @@ function ProfileInfo() {
     )
 }
 
-export default ProfileInfo
+export default ProfileInfo;

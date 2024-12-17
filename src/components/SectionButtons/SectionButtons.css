@@ -1,0 +1,12 @@
+.container-buttons{
+    margin-top: 12px;
+    height: 24px;
+    display: flex;
+    column-gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-arrow{
+    padding: 11px 12px;
+}

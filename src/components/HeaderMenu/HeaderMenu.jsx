@@ -26,4 +26,4 @@ function HeaderMenu() {
   )
 }
 
-export default HeaderMenu
+export default HeaderMenu;
